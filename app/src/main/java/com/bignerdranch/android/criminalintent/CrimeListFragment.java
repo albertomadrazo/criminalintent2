@@ -1,6 +1,7 @@
 package com.bignerdranch.android.criminalintent;
 
 
+<<<<<<< HEAD
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -22,4 +23,10 @@ public class CrimeListFragment extends Fragment {
 
         return view;
     }
+=======
+import android.support.v4.app.Fragment;
+
+public class CrimeListFragment extends Fragment {
+
+>>>>>>> chapter9
 }
